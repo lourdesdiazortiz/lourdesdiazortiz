@@ -7,8 +7,8 @@
 - 📫 How to reach me email: Ldiazortiz@outlook.com
 
 ## My homework: Design a table with at least 5 terminal command... here we go! :anguished:
-```
-=====================================================
+
+
 |Comando  |Función (qué hace)                       |
 |---------|-----------------------------------------|
 |ls       |lista los documentos en la carpeta activa|
@@ -20,7 +20,7 @@
 |mkdir    |crear directorios                        |
 |---------|-----------------------------------------|
 |code .   |abre Visual Studio Code                  |
-=====================================================
+
 
 
 
